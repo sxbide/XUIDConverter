@@ -12,6 +12,7 @@ This is the uniqueId that Geyser converts. Inside this ID, you will find a hexad
 - Converts hexadecimal XUIDs to decimal XUIDs.
 - Retrieves original gamerTags from the Geyser API.
 - Implements caching to ensure no performance issues.
+- **Retrieves gamerTag even if a player is offline.**
 
 ## Usage
 
